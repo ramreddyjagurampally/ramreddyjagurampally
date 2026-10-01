@@ -1,11 +1,11 @@
 # Hi there, I'm Ram Reddy 👋
 
-I'm a **.NET Full Stack Developer** with experience building secure, scalable, and cloud-based web applications using C#, ASP.NET Core, React, SQL Server, and Microsoft Azure.
+I'm a ** senior Full Stack Developer** with experience building secure, scalable, and cloud-based web applications using C#, ASP.NET Core, React, SQL Server, and Microsoft Azure.
 
 ## 👨‍💻 About Me
 
 - 🎓 Master's degree in Information Technology
-- 💻 Focused on .NET Full Stack Development
+- 💻 Focused on  senior  Full Stack Development
 - 🔧 Building REST APIs, microservices, and responsive web applications
 - ☁️ Working with Microsoft Azure, Docker, and CI/CD
 - 🏗️ Learning Clean Architecture, system design, and cloud application development
@@ -18,15 +18,15 @@ I'm a **.NET Full Stack Developer** with experience building secure, scalable, a
 
 ### Programming Languages
 
-C#, JavaScript, TypeScript, SQL, Python
+ java, C#, JavaScript, TypeScript, SQL, Python
 
 ### Backend Development
 
-ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core, LINQ, Microservices
+   Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Microservices, REST APIs, OpenAPI/Swagger ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core, LINQ, Microservices
 
 ### Frontend Development
 
-React, Angular, HTML5, CSS3, Bootstrap
+React, Angular, HTML5, CSS3, Bootstrap,Responsive UI, Component-Based Design
 
 ### Databases
 
@@ -38,7 +38,7 @@ Microsoft Azure, Azure App Service, Azure Functions, Docker, Kubernetes, GitHub 
 
 ### Security and Testing
 
-JWT Authentication, Role-Based Access Control, NUnit, MSTest, Moq, Postman
+JWT Authentication, Role-Based Access Control, NUnit, MSTest, Moq, Postman Testing & Security: JUnit 5, Mockito, Spring Boot Test, Integration Testing, Spring Security, OAuth 2.0, JWT, RBAC Practices: Agile/Scrum, SOLID, Design Patterns, System Design, Code Reviews, Production Support 
 
 ### Development Tools
 
