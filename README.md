@@ -1,6 +1,6 @@
 # Hi there, I'm Ram Reddy 👋
 
-I'm a ** senior Full Stack Developer** with experience building secure, scalable, and cloud-based web applications using C#, ASP.NET Core, React, SQL Server, and Microsoft Azure.
+I'm a ** senior Full Stack Developer** with experience building secure, scalable, and cloud-based web applications using  Java 17/21, C#, ASP.NET Core, React, SQL Server, and Microsoft Azure.Spring Boot, Spring MVC, Spring Data JPA, Hibernate, Microservices, REST APIs, OpenAPI/Swagger
 
 ## 👨‍💻 About Me
 
